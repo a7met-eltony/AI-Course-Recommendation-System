@@ -1,0 +1,2 @@
+Place the downloaded Coursera.csv dataset in this folder before running the app.
+The app expects columns equivalent to Course Name, Difficulty Level, Course Rating, Course Description, and Skills.
